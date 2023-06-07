@@ -1,0 +1,7 @@
+.hhover:hover img{
+    filter: grayscale(-100%);
+    transform: scale(1.1);
+}
+.hhover img{
+    transition: 1s;
+}
